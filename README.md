@@ -14,7 +14,7 @@ A lightweight Python wrapper for making requests to Discord's Pomelo username AP
 Clone the repository and install the dependency:
 
 ```
-git clone https://github.com/your-username/DiscordPomelo.git
+git clone https://github.com/indolently/DiscordPomelo.git
 cd DiscordPomelo
 pip install requests
 ```
