@@ -1,3 +1,3 @@
-from .client import DiscordPomelo
+from .core import DiscordPomelo
 
 __all__ = ["DiscordPomelo"]
